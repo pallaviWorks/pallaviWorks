@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Pallavi%20Sharma.png" width="100%">
+</p>
+
 ## Hi there 👋
 
 Pallavi Sharma
