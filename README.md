@@ -1,9 +1,5 @@
 <!-- ===================== PROFILE BANNER ===================== -->
 
-<p align="center">
-  <img src="./Git%20hub.png" width="100%" alt="Pallavi Sharma GitHub Banner">
-</p>
-
 <h1 align="center">Hi there, I'm Pallavi Sharma 👋</h1>
 
 <p align="center">
